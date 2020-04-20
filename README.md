@@ -1,0 +1,7 @@
+# Pluralsight Angular Architecture and Best Practices
+
+https://app.pluralsight.com/library/courses/angular-architecture-best-practices
+
+Learn how to build a solid Angular application architecture that is easy to refactor and maintain. Topics covered include code/component/module organization, component communication, RxJS, state management, best practices, and more.
+
+There's a lot of questions out there about the core concepts of Angular, including: are you following established best practices? How easy will it be to maintain and refactor the application in the future? If you're starting a new application from scratch, what application architecture should be used? In this course, Angular Architecture and Best Practices, you'll learn architectural concepts, best practices, and how to solve some of the more challenging tasks that come up. First, you'll discover component communication techniques. Next, you'll learn state management and code organization. Finally, you'll explore general best practices, performance considerations, and more. When you're finished with this course, you'll have the skills and knowledge of Angular application architecture needed to think through the process of building a solid application architecture that is easy to refactor and maintain.
